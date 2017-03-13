@@ -1,5 +1,5 @@
-# Bigdata-Apache-Spark
-Bigdata Analytics using Apache Spark
+# Bigdata-Analytics-Apache-Spark
+Bigdata Analytics using Yelp API
 
 Dataset	Description:
 
