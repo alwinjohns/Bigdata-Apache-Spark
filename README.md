@@ -1,7 +1,8 @@
 # Bigdata-Apache-Spark
 Bigdata Analytics using Apache Spark
 
-Dataset	Description.
+Dataset	Description:
+
 The	dataset	comprises	of	three	csv files,	namely	user.csv,	business.csv	and	review.csv.		
 Note	that	some	of	the	content,	such	as	id	fields	are	encoded.	Note	that	the	files	are	
 separated	by	"^"	character.	
